@@ -5,3 +5,8 @@ The tasks with their solutions are in
   - QuantumLab2
   - Quantum team project
     For the team project my contribution to the team project was Shor's algorithm using pennylane library on python.
+
+
+The book from which I learned the quantum computing basics:
+
+- Mannucci, Mirco A._Yanofsky, Noson S - Quantum computing for computer scientists
